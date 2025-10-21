@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ata</h1>
 
 <h3 align="center">
-Junior Android Developer | Software Engineer  
+Android Developer | Software Engineer  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20Developer|Kotlin%20%26%20Jetpack%20Compose;Building%20Modern%20Apps&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer|Android%20Developer;Building%20Modern%20Mobile%20Apps&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22">
 </a>
 </p>
 
@@ -18,8 +18,9 @@ Junior Android Developer | Software Engineer
 ---
 
 ### 👨‍💻 About Me
-I’m a **Junior Android Developer** passionate about building **modern, efficient, and user-friendly apps**.  
-I enjoy working with **Kotlin, Jetpack Compose, Clean Architecture, MVVM & MVI patterns**, and integrating **Firebase & Retrofit** for backend and API services.  
+I am a **Android Developer** focused on creating **efficient, modern, and user-friendly mobile applications**.  
+I specialize in **Kotlin, Jetpack Compose, Clean Architecture, MVVM & MVI patterns**, and have hands-on experience with **Firebase, Retrofit, Room, and Hilt**.  
+I enjoy **building scalable apps** and turning ideas into polished products that solve real-world problems.
 
 ---
 
@@ -39,15 +40,15 @@ I enjoy working with **Kotlin, Jetpack Compose, Clean Architecture, MVVM & MVI p
 
 ### 🚀 Featured Projects
 #### **Weather Now**
-- Modern weather app providing real-time weather info, daily & 7-day forecasts  
-- Uses current location or city search  
+- Real-time weather app with **daily & 7-day forecasts**  
+- Search any city or use your current location  
 - Dynamic notifications & smooth UI with Jetpack Compose  
-- Built with **MVVM, MVI, Clean Architecture, Retrofit, Firebase, Hilt, DataStore**  
+- Built with **MVVM, MVI, Clean Architecture, Retrofit, Firebase, Hilt & DataStore**  
 [![Watch Demo](https://img.youtube.com/vi/dG0z4xN7_vs/0.jpg)](https://youtube.com/shorts/dG0z4xN7_vs)  
 [View on GitHub](https://github.com/MohamedAta575/WeatherNow)
 
 #### **Other Projects**
-- Currently working on more Android apps using **Kotlin, Compose & Clean Architecture**  
+- Developing more Android apps using **Kotlin, Compose, Clean Architecture & modern design patterns**  
 
 ---
 
